@@ -1,6 +1,6 @@
 # Afonso Januário
 
-[![LinkedIn](https://img.shields.io/badge/-Afonso%20Januário-0071B2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fellipeutaka "LinkedIn")
+[![LinkedIn](https://img.shields.io/badge/-Afonso%20Januário-0071B2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afonsojanu "LinkedIn")
 
 ## 📖 About Me
 I'm a junior full-stack software developer with 1 year of experience creating web applications.
@@ -36,7 +36,6 @@ Outside of software development, I'm a gamer who loves to work out at the gym an
       <div>
         <br />
         <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
         <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
       </div>
     </details>
