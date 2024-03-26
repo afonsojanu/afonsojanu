@@ -52,12 +52,6 @@ Outside of software development, I'm a gamer who loves to work out at the gym an
         <br />
         <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
     </details>
-    <details>
-      <summary>Orm</summary>
-      <div>
-        <br />
-        <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-    </details>
   </div>
 </details>
 
@@ -87,6 +81,12 @@ Outside of software development, I'm a gamer who loves to work out at the gym an
         <br />
         <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
       </div>
+    </details>
+    <details>
+      <summary>Orm</summary>
+      <div>
+        <br />
+        <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
     </details>
   </div>
 </details>
