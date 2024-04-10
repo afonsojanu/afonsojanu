@@ -9,7 +9,7 @@ I'm passionate about developing clean, robust, and scalable software that provid
 Outside of software development, I'm a gamer who loves to work out at the gym and cook in my spare time.
 
 ## 💼 Experience
-* (internship) Full Stack Developer at Cybers3c (Mar 2024 - Aug 2024)
+* (internship) Developer at Cybers3c (Mar 2024 - Aug 2024)
 
 ## 🎓 Education
 * Ctesp in mobile device development (2022 - 2024)
