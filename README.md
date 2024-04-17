@@ -4,7 +4,7 @@
 
 ## 📖 About Me
 
-I'm passionate about developing clean, robust, and scalable software that provides an awesome experience for the user. Currently, my main stack is Swift, Java and Node.js, but I'm always curious to learn and explore other technologies.
+I'm passionate about developing clean, robust, and scalable software that provides an awesome experience for the user. Currently, my main stack is Flutter, Javascript and Node.js, but I'm always curious to learn and explore other technologies.
 
 Outside of software development, I'm a gamer who loves to work out at the gym and cook in my spare time.
 
