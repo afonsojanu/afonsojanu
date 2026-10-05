@@ -1,5 +1,5 @@
 <h1 align="center">Afonso Januário</h1>
-<p align="center">CS master's student who spends most of his free time reading other people's C, C++, Python and JS codebases until something breaks — then fixing it properly.</p>
+<p align="center">Master's student in Computer Engineering (AI) @ ISCTE · Backend developer — Python, .NET, JavaScript/TypeScript</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/afonsojanu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -10,26 +10,41 @@
 
 ### About
 
-I got into this almost by accident: I started picking real bugs out of open-source issue trackers to get better at reading production code instead of toy projects, and it turned into a habit. Most of what I do now is the same loop every time — find something that's actually broken, reproduce it myself before touching anything, fix it, and prove the fix with a test that fails on the old code and passes on the new one.
+Computer Engineering master's student at ISCTE (specializing in AI), currently working as a backend developer at **Typeble**, where I design and build REST APIs, backend services and database architecture in Python. I've also done a security-focused internship (vulnerability assessment, in-scope pentesting, exploit development) at **CyberS3C**, and I TA the intro Python course at ISCTE.
 
-Before this I built mobile and web apps professionally (Flutter, React, Node.js) during an internship at **Cybers3c** (Mar–Aug 2024).
+Outside of work, I dig through real open-source codebases — C, C++, Python, JS — looking for bugs nobody's caught yet, then fix them properly: reproduce first, write a test that fails on the old code and passes on the new one, verify against the project's own suite before opening anything. It's the fastest way I've found to actually get better at reading production code instead of toy projects.
 
-**Education:** MSc in Computer Science (in progress) · CTESP in Mobile Device Development (2022–2024)
+I've also won hackathons and led small technical teams along the way.
 
-### A few fixes I'm proud of
+### Experience
 
-These are all merged into the project's own codebase, not just opened and forgotten:
+| | | |
+|---|---|---|
+| **2026 – now** | Backend Developer, **Typeble** (startup) | Python — REST APIs, backend services, database architecture, system design, performance optimization |
+| **2026 – now** | Teaching Assistant, **ISCTE** | *Introduction to Programming in Python* |
+| **2026** | Software Development Intern, **Capgemini Engineering** | Implementation, testing and improvement of applications in a team-based workflow |
+| **2024** | Cybersecurity, **CyberS3C** | Vulnerability assessment, in-scope pentesting, exploit development, led small teams, delivered training |
+
+### Education
+
+- **MSc, Computer Engineering** (in progress) — ISCTE, Lisbon · specializing in Artificial Intelligence
+- **BSc, Computer Engineering** (final year) — ISTEC, Lisbon · CGPA 16/20 (~3.7/4.0)
+- **CTeSP, Mobile Device Development** — ISTEC, Lisbon · CGPA 16/20 (~3.7/4.0)
+
+### A few open-source fixes I'm proud of
+
+All merged into the project's own codebase, not just opened and forgotten:
 
 | Project | What was actually wrong |
 |---|---|
-| [moment.js](https://github.com/moment/moment/pull/6442) | `locale('__proto__')` silently corrupted the library's global locale registry for every other consumer of the library |
+| [moment.js](https://github.com/moment/moment/pull/6442) | `locale('__proto__')` silently corrupted the library's global locale registry for every other consumer |
 | [Duktape](https://github.com/svaarala/duktape/pull/2587) | Heap-buffer-overflow in the embeddable JS engine's string-cache scanner, found with AddressSanitizer |
-| [libexpat](https://github.com/libexpat/libexpat/pull/1354) | The XML parser (the one that ships inside CPython itself) accepted a malformed declaration version it should have rejected |
-| [Python-Markdown](https://github.com/Python-Markdown/markdown/pull/1631) | Quadratic-time regex backtracking in reference-link parsing — a real ReDoS, not just a style nitpick |
+| [libexpat](https://github.com/libexpat/libexpat/pull/1354) | The XML parser that ships inside CPython itself accepted a malformed declaration version it should have rejected |
+| [Python-Markdown](https://github.com/Python-Markdown/markdown/pull/1631) | Quadratic-time regex backtracking in reference-link parsing — a real ReDoS, not a style nitpick |
 | [Gunicorn](https://github.com/benoitc/gunicorn/pull/3718) | Unneeded filesystem checks were breaking abstract-namespace Unix sockets — merged by the maintainer directly |
 | [Assimp](https://github.com/assimp/assimp/pull/6832) | Heap-buffer-overflow reading MD2 model skin names |
 
-Full history is on the [pull requests tab](https://github.com/pulls?q=is%3Apr+author%3Aafonsojanu+is%3Amerged) — these six are just the ones that stuck with me.
+Full history on the [pull requests tab](https://github.com/pulls?q=is%3Apr+author%3Aafonsojanu+is%3Amerged) — these six just stuck with me.
 
 ### Stats
 
@@ -43,9 +58,12 @@ Full history is on the [pull requests tab](https://github.com/pulls?q=is%3Apr+au
 
 ### What I reach for
 
-**Comfortable reading and fixing:** C · C++ · Python · JavaScript/TypeScript
-**Build with:** React · React Native · Flutter · Node.js/Express
-**Tools:** Docker (mostly for spinning up sanitizer builds), Git, VS Code
+**Backend:** Python · .NET · JavaScript/TypeScript · REST API design
+**Also build with:** React · React Native · Flutter
+**Security:** vulnerability assessment, pentesting basics
+**Tools:** Docker (mostly for sanitizer builds), Git
+
+**Languages:** Portuguese (native) · English (B1) · Spanish (B2)
 
 ### Outside of code
 
