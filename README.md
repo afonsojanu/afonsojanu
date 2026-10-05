@@ -1,5 +1,5 @@
 <h1 align="center">Afonso Januário</h1>
-<p align="center">Master's student in Computer Engineering (AI) @ ISCTE · Backend developer — Python, .NET, JavaScript/TypeScript</p>
+<p align="center">Backend Developer & AI Engineer · Master's in Computer Engineering (AI) @ ISCTE</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/afonsojanu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -59,6 +59,7 @@ Full history on the [pull requests tab](https://github.com/pulls?q=is%3Apr+autho
 ### What I reach for
 
 **Backend:** Python · .NET · JavaScript/TypeScript · REST API design
+**AI/ML:** currently specializing in this through my master's at ISCTE
 **Also build with:** React · React Native · Flutter
 **Security:** vulnerability assessment, pentesting basics
 **Tools:** Docker (mostly for sanitizer builds), Git
