@@ -3,7 +3,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/afonsojanu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/afonsojanu"><img src="https://img.shields.io/github/followers/afonsojanu?style=flat-square&label=Followers&color=blue" alt="Followers"></a>
 </p>
 
 ---
