@@ -10,7 +10,7 @@
 
 ### About
 
-Computer Engineering master's student at ISCTE (specializing in AI), where I'm also a Teaching Assistant for Introduction to Programming in Python. I currently work as a backend developer at **Typeble**, where I design and build REST APIs, backend services and database architecture in Python. I've also done a security-focused internship (vulnerability assessment, in-scope pentesting, exploit development) at **CyberS3C**.
+I'm pursuing a Master's in Computer Engineering at ISCTE (specializing in AI), and I'm a Teaching Assistant there for the Bachelor's Introduction to Programming in Python course. I currently work as a backend developer at **Typeble**, where I design and build REST APIs, backend services and database architecture in Python. I've also done a security-focused internship (vulnerability assessment, in-scope pentesting, exploit development) at **CyberS3C**.
 
 Outside of work, I dig through real open-source codebases — C, C++, Python, JS — looking for bugs nobody's caught yet, then fix them properly: reproduce first, write a test that fails on the old code and passes on the new one, verify against the project's own suite before opening anything. It's the fastest way I've found to actually get better at reading production code instead of toy projects.
 
