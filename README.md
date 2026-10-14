@@ -19,10 +19,10 @@ I've also won hackathons and led small technical teams along the way.
 
 | | | |
 |---|---|---|
-| **2026** | Backend Developer, **Typeble** (startup) | Python — REST APIs, backend services, database architecture, system design, performance optimization |
-| **2026 – now** | Teaching Assistant, **ISCTE** | *Introduction to Programming in Python* |
-| **2026** | Software Development Intern, **Capgemini Engineering** | Implementation, testing and improvement of applications in a team-based workflow |
-| **2024** | Cybersecurity, **CyberS3C** | Vulnerability assessment, in-scope pentesting, exploit development, led small teams, delivered training |
+| **Sep 2026 – now** | Teaching Assistant, **ISCTE** | *Introduction to Programming in Python* |
+| **May 2026 – Oct 2026** | Backend Developer, **Typeble** (startup) | Python — REST APIs, backend services, database architecture, system design, performance optimization |
+| **Mar 2026 – Jun 2026** | Software Development Intern, **Capgemini Engineering** | Implementation, testing and improvement of applications in a team-based workflow |
+| **Mar 2024 – Aug 2024** | Cybersecurity, **CyberS3C** | Vulnerability assessment, in-scope pentesting, exploit development, led small teams, delivered training |
 
 ### Education
 
