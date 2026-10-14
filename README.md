@@ -9,7 +9,7 @@
 
 ### About
 
-I'm pursuing a Master's in Computer Engineering at ISCTE (specializing in AI), and I'm a Teaching Assistant there for the Bachelor's Introduction to Programming in Python course. I currently work as a backend developer at **Typeble**, where I design and build REST APIs, backend services and database architecture in Python. I've also interned in software development at **Capgemini Engineering**, and done a security-focused internship (vulnerability assessment, in-scope pentesting, exploit development) at **CyberS3C**.
+I'm pursuing a Master's in Computer Engineering at ISCTE (specializing in AI), and I'm a Teaching Assistant there for the Bachelor's Introduction to Programming in Python course. I previously worked as a backend developer at **Typeble**, where I designed and built REST APIs, backend services and database architecture in Python. I've also interned in software development at **Capgemini Engineering**, and done a security-focused internship (vulnerability assessment, in-scope pentesting, exploit development) at **CyberS3C**.
 
 Outside of work, I dig through real open-source codebases — C, C++, Python, JS — looking for bugs nobody's caught yet, then fix them properly: reproduce first, write a test that fails on the old code and passes on the new one, verify against the project's own suite before opening anything. It's the fastest way I've found to actually get better at reading production code instead of toy projects.
 
@@ -19,7 +19,7 @@ I've also won hackathons and led small technical teams along the way.
 
 | | | |
 |---|---|---|
-| **2026 – now** | Backend Developer, **Typeble** (startup) | Python — REST APIs, backend services, database architecture, system design, performance optimization |
+| **2026** | Backend Developer, **Typeble** (startup) | Python — REST APIs, backend services, database architecture, system design, performance optimization |
 | **2026 – now** | Teaching Assistant, **ISCTE** | *Introduction to Programming in Python* |
 | **2026** | Software Development Intern, **Capgemini Engineering** | Implementation, testing and improvement of applications in a team-based workflow |
 | **2024** | Cybersecurity, **CyberS3C** | Vulnerability assessment, in-scope pentesting, exploit development, led small teams, delivered training |
@@ -27,7 +27,7 @@ I've also won hackathons and led small technical teams along the way.
 ### Education
 
 - **MSc, Computer Engineering** (in progress) — ISCTE, Lisbon · specializing in Artificial Intelligence
-- **BSc, Computer Engineering** (final year) — ISTEC, Lisbon · CGPA 16/20 (~3.7/4.0)
+- **BSc, Computer Engineering** — ISTEC, Lisbon · CGPA 16/20 (~3.7/4.0)
 - **CTeSP, Mobile Device Development** — ISTEC, Lisbon · CGPA 16/20 (~3.7/4.0)
 
 ### A few open-source fixes I'm proud of
